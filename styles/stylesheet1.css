@@ -1,0 +1,60 @@
+/* Styles */
+
+h1{
+  background-color: yellow;
+  font-family: impact;
+  font-size: 300%;
+  cursor: not-allowed;
+
+}
+
+h2{
+  background-color: red;
+  font-family: fantasy;
+  font-size: 200%;
+  cursor: help;
+  text-align: right;
+}
+
+h3{
+  background-color: green;
+  font-family: cursive;
+  font-size: 100%;
+  cursor: progress;
+  text-align: center;
+}
+
+body{
+  background-color: steelblue;
+}
+
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin: 20px;
+}
+li a{
+  margin: 10px;
+  margin-top: 50px;
+  font-size: 20px;
+  width: 100%;
+  text-decoration: none;
+  display: block;
+  background-color: white;
+  color: black;
+  font-family: monospace;
+}
+
+a:hover {
+  margin: 10px;
+  margin-top: 50px;
+  font-size: 20px;
+  width: 100%;
+  text-decoration: none;
+  display: block;
+  background-color: pink;
+  color: black;
+  font-family: monospace;
+
+}
